@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## ABOUT
+## ABOUT US
 
 Nxtlve Developer is a channel where you can find some helpful video related to Discord.
 Our active support team is always ready to help of Members.
