@@ -1,3 +1,17 @@
+// server //
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.get('/', (req, res) => {
+  res.send('Working 24/7')
+})
+
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`)
+})
+// server //
+
 const Discord = require('discord.js');
 const client = new Discord.Client({
   intents: [
@@ -5,20 +19,11 @@ const client = new Discord.Client({
     "GUILD_MESSAGES"
   ]
 });
-// server //
-const express = require('express');
-const app = express();
-app.get('/', (req, res) => {
-  res.send('I am online')
-});
-app.listen(3000, () => {
-  console.log('connected to server');
-});
-// server //
-
 config = process.env;
-
 client.on('ready', () => {
   console.log('Ready!')
 });
+  console.log('Logged in!')
+  client.user.setActivity("Nxtlve Development", {type: "WATCHING"})
+})
 client.login(config.token);
