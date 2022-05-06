@@ -21,13 +21,13 @@ Now we have to run our main file so we will add this code in script section of `
 
 ## VIDEO
 
-If you need [video tutorial](https://youtu.be/PL4DBcyW96k) then this is the link to the [video](https://youtu.be/PL4DBcyW96k)!
+If you need [video tutorial](https://youtube.com/channel/UCC1pjmMDmy6v1bmp_KygwFg) then visit our YouTube channel !
 <div align="center">
   <p>
-    <a href="https://youtu.be/PL4DBcyW96k"><img src="https://media.discordapp.net/attachments/966943970145996800/966975451341918298/1650615303344.jpg" alt="Episode 1" /></a>
+    <a href="https://youtube.com/channel/UCC1pjmMDmy6v1bmp_KygwFg">
   </p>
 </div>
 
 ## SUPPORT
 
-If you don't understand something from my tutorial, you are getting errors, or you need help related to tutorial, please don't hesitate to join our official [support server](https://discord.gg/MRbJCmv4YJ).
+If you don't understand something from my tutorial, you are getting errors, or you need help related to tutorial, please don't hesitate to join our official [support server](https://dsc.gg/nxtlvedevs).
