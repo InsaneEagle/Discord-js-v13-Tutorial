@@ -30,4 +30,6 @@ If you need [video tutorial](https://youtube.com/channel/UCC1pjmMDmy6v1bmp_KygwF
 
 ## SUPPORT
 
-If you don't understand something from my tutorial, you are getting errors, or you need help related to tutorial, please don't hesitate to join our official [support server](https://dsc.gg/nxtlvedevs).
+If you don't understand something from my tutorial, you are getting errors, or you need help related to tutorial, please don't hesitate to join our official.
+
+ [Support Server](https://dsc.gg/nxtlvedevs)
