@@ -4,7 +4,7 @@
     <a href="https://youtube.com/channel/UCC1pjmMDmy6v1bmp_KygwFg">
   </p>
   <p>
-    <a href="https://discord.gg/hCHWu8bbS4"><img src="https://img.shields.io/discord/909295818132033606?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
+    <a href="https://discord.gg"><img src="https://img.shields.io/discord/909295818132033606?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
     <a href="https://github.com/InsaneEagle/Discord-js-v13-Tutorial"><img src="https://img.shields.io/github/stars/InsaneEagle/Discord-js-v13-Tutorial?style=social" alt="Star Me"></a>
   </p>
 </div>
